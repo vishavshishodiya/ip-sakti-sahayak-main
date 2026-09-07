@@ -1,0 +1,7 @@
+{
+  "name": "IP-SAKTI Sahayak",
+  "description": "Vedic Wisdom Powered by RAG AI - Authentic Ayurvedic Intelligence indexing the Brihat Trayi treatises with classical verse citations, curiosities, and multilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
